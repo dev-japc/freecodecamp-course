@@ -77,4 +77,4 @@ def hanoi_solver(disks: int) -> str:
 
 if __name__ == "__main__":
     # Print a small example trace when the script is executed directly.
-    print(hanoi_solver(-2))
+    print(hanoi_solver(2))
